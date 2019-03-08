@@ -1,0 +1,27 @@
+Selected Item:
+Type: Chest
+Name: Garcia Guard
+Value: 17
+Cost: 
+50Selected Item:
+Type: Boots
+Name: Cloth Shoes
+Value: 5
+Cost: 
+33Selected Item:
+Type: Chest
+Name: Garcia Guard
+Value: 17
+Cost: 
+50Selected Item:
+Type: Leggings
+Name: Tattered Shorts
+Value: 13
+Cost: 
+42Selected Item:
+Type: Helmet
+Name: Sligar's Noggin Protector
+Value: 12
+Cost: 
+46Total Cost: 221
+Total Value: 64

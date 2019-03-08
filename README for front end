@@ -1,0 +1,10 @@
+Author: Jiafeng Zhou
+Date: Mar 05, 2019
+Email: zhoujiafeng1044@gmail.com
+
+-------------------------------------------------------------
+To run front end webpage, simply open first.html.
+-------------------------------------------------------------
+This webpage reads API from https://ign-apis.herokuapp.com/
+
+It has three sub menus, corresponding to latest posts, videos and articles.
